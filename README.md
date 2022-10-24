@@ -1,16 +1,5 @@
-# codeware_task2
+# Dynamic bus seat layout from JSON
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-10-24 at 11 26 35 AM](https://user-images.githubusercontent.com/70930476/197454743-f88816af-4a37-434e-8d82-6787a95ddcbb.jpeg)
+![WhatsApp Image 2022-10-24 at 11 26 34 AM](https://user-images.githubusercontent.com/70930476/197454757-20d6fe0a-0012-46c0-b6bc-897c36baa094.jpeg)
+![WhatsApp Image 2022-10-24 at 11 26 35 AM (1)](https://user-images.githubusercontent.com/70930476/197454765-4515ad79-1171-4ea5-a9d3-4054770d47e1.jpeg)
